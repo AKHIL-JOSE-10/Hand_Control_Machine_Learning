@@ -35,7 +35,7 @@ This project demonstrates a system that uses hand gestures for various tasks suc
 
 1. Run the script:
     ```bash
-    python test.py
+    python app.py
     ```
 
 2. The application window will open with three buttons to toggle different features:
