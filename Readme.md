@@ -12,7 +12,7 @@ This project demonstrates a system that uses hand gestures for various tasks suc
 
 1. Clone the repository and switch to the specific branch:
     ```bash
-    git clone https://github.com/Alanj7788/HandSymbolRecognition-ML.git
+    git clone https://github.com/AKHIL-JOSE-10/Hand_Control_Machine_Learning.git
     cd HandSymbolRecognition-ML
     git checkout ICT_final-submission
     ```
@@ -52,7 +52,7 @@ This project demonstrates a system that uses hand gestures for various tasks suc
 
 ## Project Structure
 
-- **test.py:** Main script that runs the application.
+- **app.py:** Main script that runs the application.
 - **Model/keras_model.h5:** Pre-trained model for hand gesture classification.
 - **Model/labels.txt:** Labels for the hand gesture model.
 
